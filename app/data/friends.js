@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Mater',
-		photo: '',
+		photo: '/images/mater.jpg',
 		scores: [
 			'1',
 			'5',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Spongebob',
-		photo: '',
+		photo: '/images/SpongeBob.png',
 		scores: [
 			'2',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby Doo',
-		photo: '',
+		photo: '/images/Scooby-Doo.png',
 		scores: [
 			'4',
 			'3',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Princess Poppy',
-		photo: '',
+		photo: '/images/princessPoppy.jpg',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Stitch',
-		photo: '',
+		name: 'Maui',
+		photo: '/images/Maui.jpg',
 		scores: [
 			'1',
 			'1',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Pumba',
-		photo: '',
+		photo: '/images/Pumba.png',
 		scores: [
 			'1',
 			'1',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Lady Glitter Sparkles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		photo: '/images/ladyGlitterSparkles.jpg',
 		scores: [
 			'5',
 			'4',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Bob',
-		photo: '',
+		photo: '/images/bob.jpg',
 		scores: [
 			'5',
 			'2',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Flash',
-		photo: '',
+		photo: '/images/Flash.jpg',
 		scores: [
 			'5',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Elmo',
-		photo: '',
+		photo: '/images/Elmo.png',
 		scores: [
 			'1',
 			'1',
