@@ -6,9 +6,9 @@ The Friend Finder application is meant to simulate a simple dating app. The appl
 
 ### Installation
 
-``` git clone https://github.com/Duckiebee/Friend-Finder.git
-cd friend-finder
-npm install ```
+``` git clone https://github.com/Duckiebee/Friend-Finder.git ```
+``` cd friend-finder ```
+``` npm install ```
 
 ### Running Locally
 
