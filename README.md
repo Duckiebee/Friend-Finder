@@ -6,11 +6,9 @@ The Friend Finder application is meant to simulate a simple dating app. The appl
 
 ### Installation
 
-git clone https://github.com/Duckiebee/Friend-Finder.git
-
+``` git clone https://github.com/Duckiebee/Friend-Finder.git
 cd friend-finder
-
-npm install
+npm install ```
 
 ### Running Locally
 
@@ -22,4 +20,4 @@ After the PORT environment variable has been set, run the Node.js application wi
 
 ``` node server.js ```
 
-The application will now be running locally on PORT, in this case that is port 3030. You can then access it locally from your browser at the URL [(localhost:PORT)], in this case localhost:3030
+The application will now be running locally on PORT, in this case that is port 3030. You can then access it locally from your browser at the URL localhost:PORT, in this case localhost:3030
